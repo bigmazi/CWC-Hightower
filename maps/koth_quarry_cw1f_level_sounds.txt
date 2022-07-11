@@ -297,7 +297,7 @@
 	"channel"	"CHAN_STATIC"
 	"pitch"		"150"
 	"soundlevel"	"SNDLVL_74dB"
-	"volume"	".35"
+	"volume"	".7"
 	"wave"		"weapons/sniper_bolt_forward.wav"
 }
 
